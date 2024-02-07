@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bassaboi
-- 👀 I’m interested in ...learning to code
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning to code with python
   
 
 <!---
